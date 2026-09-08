@@ -1,0 +1,13 @@
+```text
+# OS Metadata files
+.DS_Store
+Thumbs.db
+
+# Editor configurations
+.vscode/
+.idea/
+
+# Local logs and test dumps
+*.log
+npm-debug.log*
+```
