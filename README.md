@@ -1,6 +1,6 @@
 # Roshambo Arena
 
-An interactive Rock-Paper-Scissors game engine running entirely inside the web browser. It processes player choices, executes random computer selections, updates DOM nodes dynamically, and maintains state without external libraries.
+> An interactive Rock-Paper-Scissors game engine running entirely inside the web browser. It processes player choices, executes random computer selections, updates DOM nodes dynamically, and maintains state without external libraries.
 
 ## Overview
 
